@@ -36,7 +36,7 @@ src
 
 ### Making requests to the backend API
 
-For convenience, we have a live API server running at https://conduit.productionready.io/api for the application to make requests against. You can view [the API spec here](https://api.realworld.io/api-docs/) which contains all routes & responses for the server.
+For convenience, we have a live API server running at https://.productionready.io/api for the application to make requests against. You can view [the API spec here](https://api.realworld.io/api-docs/) which contains all routes & responses for the server.
 
 The source code for the backend server (available for Node, Rails and Django) can be found in the [main RealWorld repo](https://github.com/gothinkster/realworld).
 
